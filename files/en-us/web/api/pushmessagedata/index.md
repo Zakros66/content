@@ -1,4 +1,4 @@
----
+-124--
 title: PushMessageData
 slug: Web/API/PushMessageData
 tags:
